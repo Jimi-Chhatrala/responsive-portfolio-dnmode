@@ -1,0 +1,4 @@
+https://unpkg.com/swiper@6.5.8/swiper-bundle.min.css
+
+https://github.com/nolimits4web/Swiper/blob/master/demos/145-css-mode.html
+
